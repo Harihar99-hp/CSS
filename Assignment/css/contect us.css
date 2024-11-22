@@ -1,0 +1,14 @@
+*
+{
+    border:2px solid green;
+   
+   
+}
+.row
+{
+    display: flex;
+}
+.col
+{
+    flex-grow: 1;
+}

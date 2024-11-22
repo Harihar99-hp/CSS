@@ -1,0 +1,51 @@
+/* this code will assign border to each element of html body */
+*
+{
+    border:2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.row
+{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+/* assign color to body */
+body
+{
+
+}
+/* this code will remove disc in starting of text in <li> */
+.row , li
+{
+    list-style: none;   
+    
+}
+/* this code remove underline from anchore  link  text.. */
+a
+ {
+    text-decoration-line:none ;
+
+ }
+
+ /* list class than hover than space ul nested list class name property display and value block */
+ .dropdown:hover .contdetail
+ {
+    display: block;
+ }
+ .contdetail
+ {
+    display: none;
+ }
+
+
+ /* ### page structure ### */
+
